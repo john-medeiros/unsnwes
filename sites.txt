@@ -17,7 +17,7 @@ https://br.investing.com/rss/news_95.rss
 https://br.investing.com/rss/news_12.rss
 https://br.investing.com/rss/news_14.rss
 https://br.investing.com/rss/news_287.rss
-https://br.investing.com/rss/central_banks.rss
+#https://br.investing.com/rss/central_banks.rss
 http://www.moneytrader.com.br/rss/noticias.xml
 http://www.moneytrader.com.br/rss/all.xml
 https://g1.globo.com/rss/g1/brasil/
